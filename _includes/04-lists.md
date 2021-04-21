@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+1. Sports
+  1. ice hockey 🏒
+  2. Biking (MTB) 🚴‍♂️
+  3. snowboarding 🏂
+2. learning 📘
